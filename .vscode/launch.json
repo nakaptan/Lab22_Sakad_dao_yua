@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run lab22 (GCC 14)",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/lab22",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "lldb"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/natpakan_k./Desktop/COM PRO C++/Lab22_Sakad_dao_yua",
+      "program": "/Users/natpakan_k./Desktop/COM PRO C++/Lab22_Sakad_dao_yua/build/Debug/outDebug"
+    }
+  ]
+}
